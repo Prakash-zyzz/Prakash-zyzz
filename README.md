@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Prakash-zyzz
+- 👋 Hi, I’m @Prakash
 - 👀 I’m interested in Front-End Developement.
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 reach me through by mail prakashvasan08@gmail.com
+- 📫 reach me through by mail prakashganes08@gmail.com
 
 <!---
 Prakash-zyzz/Prakash-zyzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
