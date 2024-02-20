@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Prakash
 - 👀 I’m interested in Front-End Developement.
-- 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 reach me through by mail prakashganes08@gmail.com
 
